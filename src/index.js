@@ -1,4 +1,4 @@
-import './style.css'
+// import './style.css'
 import directive from './directive'
 import {init as statusMsgInit} from './statusMsg'
 
